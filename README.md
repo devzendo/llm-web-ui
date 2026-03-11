@@ -4,6 +4,8 @@ A responsive web frontend for Simon Willison's [`llm`](https://llm.datasette.io/
 Create new chats, revisit old ones, and stream responses from any local or remote model
 `llm` supports — all in a clean dark UI built with Framework7.
 
+_Note by Matt - I HAVE NOT YET VERIFIED THIS. ALL CODE WRITTEN BY CLAUDE
+AND NOT YET EXAMINED FOR CORRECTNESS. BUYER BEWARE. MAY CONTAIN NUTS._
 ---
 
 ## Quick start
